@@ -1,0 +1,13 @@
+
+
+Comando para instalar django
+-pip install django 
+
+Comando para iniciar proyecto en django
+- django-admin startproject NOMBREPROYECTO .
+
+Comando para ejecutar proyecto 
+- python manage.py runserver 
+
+Comando para crear una app
+- django-admin startapp NOMBREAPP
