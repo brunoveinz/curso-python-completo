@@ -6,6 +6,8 @@
 
 > **Aprende Python desde cero con más de 4 horas de contenido práctico y ejercicios**
 
+![Curso Completo Python](assets/portada-curso.png)
+
 ## 📖 Sobre el Curso
 
 Este curso te llevará desde los conceptos básicos de Python hasta temas avanzados, con ejercicios prácticos y proyectos reales que podrás usar en tu portafolio profesional.
@@ -26,10 +28,10 @@ Este curso te llevará desde los conceptos básicos de Python hasta temas avanza
 
 ```bash
 # Clona el repositorio
-git clone https://github.com/brunoveinz/curso-python.git
+git clone https://github.com/brunoveinz/curso-python-completo.git
 
 # Navega al directorio
-cd curso-python
+cd curso-python-completo
 
 # Instala las dependencias
 pip install -r requirements.txt
@@ -75,6 +77,7 @@ python nombre_archivo.py
 
 ## 🎥 Video del Curso
 
+👉 **[Ver curso completo en YouTube](TU_ENLACE_YOUTUBE)**
 
 *Los timestamps se actualizarán una vez que el video esté publicado*
 
@@ -95,7 +98,7 @@ python nombre_archivo.py
    ```
 3. **Clona este repositorio**:
    ```bash
-   git clone https://github.com/TU_USUARIO/curso-python.git
+   git clone https://github.com/brunoveinz/curso-python-completo.git
    ```
 4. **Instala dependencias**:
    ```bash
